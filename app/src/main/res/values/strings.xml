@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BD SQLite</string>
+    <string name="texto_bt_inserir">Inserir</string>
+    <string name="texto_bt_pesquisar">Pesquisar</string>
+    <string name="texto_bt_editar">Editar</string>
+    <string name="texto_bt_excluir">Excluir</string>
+    <string name="texto_bt_listar">Listar</string>
+
+    <string name="texto_ra">Digite o RA do aluno</string>
+    <string name="texto_nome">Digite o Nome</string>
+    <string name="texto_curso">Digite o curso</string>
+    <string name="texto_campus">Digite o campus</string>
+
+
+</resources>
